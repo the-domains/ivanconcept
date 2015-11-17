@@ -1,0 +1,23 @@
+name: ivanconcept
+favicon: null
+layout_spectrum: 0.8731636772863567
+typography_spectrum: 0.37521085469052196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9234861074946821
+  lightness: 0.6347776257898659
+  saturation: 0.48126967810094357
+  rhythmicContrast: 0.05542483716271818
+purpose: []
