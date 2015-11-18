@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: ivanconcept
+title: 'Ivan Wong, Pianist'
 cta:
   domain: null
   bucket: null
