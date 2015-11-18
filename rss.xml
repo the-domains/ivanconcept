@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ivanconcept]]></title>
         <description><![CDATA[ivanconcept]]></description>
-        <link>https://thegrid.ai/ivanconcept/</link>
+        <link>http://ivanconcept.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 17:32:54 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ivanconcept/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 17:46:57 GMT</lastBuildDate>
+        <atom:link href="http://ivanconcept.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5d8355b-de97-4af9-b6af-1e4e2b399c2c.png" alt="" title="">]]></description>
+            <link>http://ivanconcept.com/04912150-818b-40c0-9cf5-ced191b311d5/index.html</link>
+            <guid isPermaLink="false">04912150-818b-40c0-9cf5-ced191b311d5</guid>
+            <pubDate>Wed, 18 Nov 2015 17:45:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cfe083a-4167-4c5a-8b98-fdc6146678d5.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ivanconcept/c511e72f-c917-4dd1-9b98-3edbc185f721/index.html</link>
+            <link>http://ivanconcept.com/c511e72f-c917-4dd1-9b98-3edbc185f721/index.html</link>
             <guid isPermaLink="false">c511e72f-c917-4dd1-9b98-3edbc185f721</guid>
             <pubDate>Tue, 17 Nov 2015 17:32:12 GMT</pubDate>
         </item>
