@@ -1,4 +1,8 @@
-layout_spectrum: 0.6998314
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.4812696781009436
@@ -22,14 +26,10 @@ color:
   rhythmicContrast: 0.05542483716271818
   brandColors: []
   lightness: 0.6347776257898659
-typography_spectrum: 0.375210854690522
-cta:
-  bucket: null
-  version: null
-  domain: null
+typography_spectrum: 0.8693086
+layout_spectrum: 0.6998314
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: ivanconcept
