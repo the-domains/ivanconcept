@@ -1,35 +1,35 @@
-name: ivanconcept
 favicon: null
-layout_spectrum: 0.5052
-typography_spectrum: 0.375210854690522
+name: ivanconcept
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 0.4812696781009436
+  brandStrength: 0.9234861074946821
+  rhythmicContrast: 0.05542483716271818
+  brandColors: []
+  lightness: 0.6347776257898659
+typography_spectrum: 0.375210854690522
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+layout_spectrum: 0
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors: []
-  brandStrength: 0.9234861074946821
-  lightness: 0.6347776257898659
-  saturation: 0.4812696781009436
-  rhythmicContrast: 0.05542483716271818
-purpose: []
