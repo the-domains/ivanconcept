@@ -19,7 +19,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: ivanconcept.com
+  google: null
   facebook: null
   twitter: null
 opengraph:
