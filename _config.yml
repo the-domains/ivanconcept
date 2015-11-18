@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: ivanconcept
+favicon: null
+layout_spectrum: 0.5052
+typography_spectrum: 0.375210854690522
 collections:
   - index:
       path: /
@@ -18,18 +14,22 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5052
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: ivanconcept.com
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4812696781009436
-  brandStrength: 0.9234861074946821
-  rhythmicContrast: 0.05542483716271818
   brandColors: []
+  brandStrength: 0.9234861074946821
   lightness: 0.6347776257898659
+  saturation: 0.4812696781009436
+  rhythmicContrast: 0.05542483716271818
 purpose: []
-favicon: null
-name: ivanconcept
-typography_spectrum: 0.375210854690522
