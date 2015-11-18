@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: ivanconcept
 opengraph:
   image: null
   type: null
@@ -26,10 +22,14 @@ color:
   rhythmicContrast: 0.05542483716271818
   brandColors: []
   lightness: 0.6347776257898659
-typography_spectrum: 0.8693086
-layout_spectrum: 0.6998314
+typography_spectrum: 0.6214165
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: ivanconcept
+favicon: null
+layout_spectrum: 0.6998314
