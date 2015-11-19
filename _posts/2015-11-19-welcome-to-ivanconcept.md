@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T16:56:19.552Z'
-dateModified: '2015-11-19T16:56:15.146Z'
+datePublished: '2015-11-19T17:07:08.495Z'
+dateModified: '2015-11-19T17:07:03.005Z'
 title: Welcome to ivanconcept.
 sourcePath: _posts/2015-11-19-welcome-to-ivanconcept.md
 published: true
@@ -21,5 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e9f60e2-ecad-4c5f-bebd-29e121ca862a.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e1c733a-db08-4c93-8dfa-fcf7fcbfa516.jpg)
