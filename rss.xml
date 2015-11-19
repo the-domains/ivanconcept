@@ -4,8 +4,15 @@
         <description><![CDATA[Ivan Wong, Pianist]]></description>
         <link>http://ivanconcept.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 15:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 15:09:27 GMT</lastBuildDate>
         <atom:link href="http://ivanconcept.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to ivanconcept.]]></title>
+            <description><![CDATA[<article><h1>Welcome to ivanconcept.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0d62fad-7114-4564-89d9-ac7713a31e71.jpg"></article>]]></description>
+            <link>http://ivanconcept.com/welcome-to-ivanconcept/index.html</link>
+            <guid isPermaLink="false">b2c4ae64-90b0-4e0e-b895-8b8ada9c1a80</guid>
+            <pubDate>Thu, 19 Nov 2015 15:09:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59a9af6c-2b2c-4483-a8e4-cd1a11f4391d.gif" alt="" title="">]]></description>
