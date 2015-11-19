@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T04:12:22.148Z'
-dateModified: '2015-11-19T04:12:03.115Z'
+datePublished: '2015-11-19T04:15:33.946Z'
+dateModified: '2015-11-19T04:13:52.157Z'
 title: 'Welcome to ivanconcept!'
+sourcePath: _posts/2015-11-19-welcome-to-ivanconcept.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-welcome-to-ivanconcept.md
-published: true
 url: welcome-to-ivanconcept/index.html
 _type: Article
 
