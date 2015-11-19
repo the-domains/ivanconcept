@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T14:59:20.306Z'
-dateModified: '2015-11-19T14:59:15.217Z'
+datePublished: '2015-11-19T15:04:00.552Z'
+dateModified: '2015-11-19T15:03:55.185Z'
 title: Welcome to ivanconcept.
 sourcePath: _posts/2015-11-19-welcome-to-ivanconcept.md
 published: true
