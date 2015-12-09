@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ivan Wong, Pianist]]></title>
+        <description><![CDATA[Ivan Wong, Pianist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 17:12:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c65cf2ca1fff2c19242cd21ffb3726c1cf1b4997.jpg" alt="" title="">]]></description>
+            <link>undefined27450096-1fcc-46ca-936b-a342aba9ae6b/index.html</link>
+            <guid isPermaLink="false">27450096-1fcc-46ca-936b-a342aba9ae6b</guid>
+            <pubDate>Wed, 09 Dec 2015 17:12:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
