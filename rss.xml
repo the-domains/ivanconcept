@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ivan Wong, Pianist]]></title>
         <description><![CDATA[Ivan Wong, Pianist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ivanconcept.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 02:21:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 15:42:20 GMT</lastBuildDate>
+        <atom:link href="http://ivanconcept.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An die Musik Konzert]]></title>
+            <description><![CDATA[<article><h1>An die Musik Konzert</h1><p>13 Dec 2015, 4:00pm</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34569637-6656-456e-9138-b8f3ed5e4ced.jpg"></article>]]></description>
+            <link>http://ivanconcept.com/an-die-musik-konzert/index.html</link>
+            <guid isPermaLink="false">cfff1998-4f7f-48e4-a2cc-8173c6188fd5</guid>
+            <pubDate>Sat, 12 Dec 2015 15:42:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A different way to visualize rhythm - John Varney]]></title>
             <description><![CDATA[<article><h1>A different way to visualize rhythm - John Varney</h1><p>In standard notation, rhythm is indicated on a musical bar line. But there are other ways to visualize rhythm that can be more intuitive. John Varney describes the 'wheel method' of tracing rhythm and uses it to take us on a musical journey around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84f2265ae253fdea33696ad1af1e168f7a6ed1e9.jpg"></article>]]></description>
-            <link>undefineda-different-way-to-visualize-rhythm-john-varney/index.html</link>
+            <link>http://ivanconcept.com/a-different-way-to-visualize-rhythm-john-varney/index.html</link>
             <guid isPermaLink="false">9ce1ce6a-8b4a-45d0-a81d-6e02cb667a22</guid>
             <pubDate>Sat, 12 Dec 2015 02:21:51 GMT</pubDate>
         </item>
