@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T01:11:39.524Z'
-dateModified: '2015-12-13T01:11:32.459Z'
+datePublished: '2015-12-15T02:22:30.223Z'
+dateModified: '2015-12-15T02:22:25.132Z'
 title: Key Skills for Pianists
 author: []
 sourcePath: _posts/2015-12-12-key-skills-for-pianists.md
