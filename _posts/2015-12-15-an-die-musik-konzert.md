@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T13:56:57.500Z'
-dateModified: '2015-12-15T13:56:12.468Z'
+datePublished: '2015-12-15T13:59:22.767Z'
+dateModified: '2015-12-15T13:59:14.318Z'
 title: An Die Musik Konzert
 author: []
 sourcePath: _posts/2015-12-15-an-die-musik-konzert.md
@@ -31,7 +31,7 @@ Hong Kong Baptist University Chapel
 224 Waterloo Road, Kowloon Tong
 
 [http://www.chap.hkbu.edu.hk/hkbu058.php][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/959d7f50335fcb932e39d6878c9a1fde7b5cdb88.jpg)
+![Performing Schubert's Der Hirt auf dem Felsen with Prof. Kurt Schmid and Ms. Jeffie Leung](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a6ec8383af2993de5a36ba7c7ba9ca68a6965af.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42fbd5d6bad5fdb264b4809d9c776c47f846274a.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f89773fe2825c75d47722cb1f5abcefe300ecb7.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d003dca2e171030111725c6b75d56962764e028.jpg)
