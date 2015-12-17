@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T07:33:25.682Z'
-dateModified: '2015-12-17T07:33:22.649Z'
+datePublished: '2015-12-17T07:36:30.105Z'
+dateModified: '2015-12-17T07:36:27.024Z'
 title: An Die Musik Konzert
 author: []
 sourcePath: _posts/2015-12-15-an-die-musik-konzert.md
@@ -33,6 +33,7 @@ Hong Kong Baptist University Chapel
 [http://www.chap.hkbu.edu.hk/hkbu058.php][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/38432053a9645427357f112d479c48cadfea1ecd.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42fbd5d6bad5fdb264b4809d9c776c47f846274a.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/94532ddc8a21d7293476f9ef173f01e555006d1b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c41b3b4e-594f-4e58-8073-e93da85b6d22.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c6cb47-f351-4ea0-9fd6-6d0fe64fd55d.jpg)
 
 [0]: http://www.chap.hkbu.edu.hk/hkbu058.php
