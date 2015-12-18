@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In standard notation, rhythm is indicated on a musical bar line. But there are other ways to visualize rhythm that can be more intuitive. John Varney describes the 'wheel method' of tracing rhythm and uses it to take us on a musical journey around the world."
-datePublished: '2015-12-12T02:21:51.939Z'
-dateModified: '2015-12-12T02:21:38.472Z'
+datePublished: '2015-12-18T17:09:20.388Z'
+dateModified: '2015-12-18T17:09:17.396Z'
 author:
   - name: TED-Ed
     url: 'https://www.youtube.com/user/TEDEducation'
@@ -25,14 +25,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=2UphAzryVpY&feature=applinks'
     type: web
 title: A different way to visualize rhythm - John Varney
+sourcePath: _posts/2015-12-12-a-different-way-to-visualize-rhythm-john-varney.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-12-a-different-way-to-visualize-rhythm-john-varney.md
-published: true
 url: a-different-way-to-visualize-rhythm-john-varney/index.html
 _type: VideoObject
 _context: 'http://schema.org'
