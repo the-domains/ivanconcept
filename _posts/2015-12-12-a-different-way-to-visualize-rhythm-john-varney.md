@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In standard notation, rhythm is indicated on a musical bar line. But there are other ways to visualize rhythm that can be more intuitive. John Varney describes the 'wheel method' of tracing rhythm and uses it to take us on a musical journey around the world."
-datePublished: '2015-12-18T17:09:20.388Z'
-dateModified: '2015-12-18T17:09:17.396Z'
+datePublished: '2015-12-23T19:44:18.913Z'
+dateModified: '2015-12-18T17:15:38.989Z'
 author:
   - name: TED-Ed
     url: 'https://www.youtube.com/user/TEDEducation'
