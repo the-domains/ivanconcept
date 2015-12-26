@@ -1,6 +1,6 @@
 name: ivanconcept
 favicon: null
-layout_spectrum: 0.50236
+layout_spectrum: 1
 typography_spectrum: 1
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e98a74'
-    - '#f2e8de'
-    - '#2f88b9'
-    - '#2e496c'
-    - '#a9cee2'
+    - '#e54f1f'
+    - '#d30c2c'
+    - '#4a3d51'
+    - '#b2dc7f'
+    - '#ea94a2'
   brandStrength: 1
-  lightness: 0
+  lightness: 1
   saturation: 0
   rhythmicContrast: 1
 purpose: []
