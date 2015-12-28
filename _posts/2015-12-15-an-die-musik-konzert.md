@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-28T17:14:50.096Z'
-dateModified: '2015-12-28T17:14:45.744Z'
+datePublished: '2015-12-28T17:17:18.151Z'
+dateModified: '2015-12-28T17:17:02.821Z'
 title: An Die Musik Konzert
 author: []
 sourcePath: _posts/2015-12-15-an-die-musik-konzert.md
