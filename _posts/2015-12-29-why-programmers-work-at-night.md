@@ -17,8 +17,8 @@ keywords:
   - simply
   - sleep
 description: "A popular saying goes that Programmers are machines that turn caffeine into code. And sure enough, ask a random programmer when they do their best work and there's a high chance they will admit to a lot of late nights. Some earlier, some later."
-datePublished: '2015-12-29T19:01:54.090Z'
-dateModified: '2015-12-29T19:01:45.932Z'
+datePublished: '2015-12-29T19:09:03.825Z'
+dateModified: '2015-12-29T19:08:56.603Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Why programmers work at night</h1><p>A popular saying goes that Programmers are machines that turn caffeine into code&amp;period; And sure enough&amp;comma; ask a random programmer when they do their best work and there's a high chance they will admit to a lot of late nights&amp;period; Some earlier&amp;comma; some later&amp;period;</p><img src="http://d3nulzlctd9uky.cloudfront.net/blog/wp-content/uploads/2011/12/ballmer_peak1.png?63d7a1" /></article>
+<article style=""><h1>Why programmers work at night</h1><p>A popular saying goes that Programmers are machines that turn caffeine into code. And sure enough, ask a random programmer when they do their best work and there's a high chance they will admit to a lot of late nights. Some earlier, some later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0f7de3d189564b395702918410c8a668c3f3c5e.png" /></article>
