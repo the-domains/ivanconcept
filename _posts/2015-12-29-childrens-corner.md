@@ -17,8 +17,8 @@ keywords:
   - digital
   - web
 description: 每個周日下午，羅姨姨約定你一齊聽音樂，一齊聽故事。
-datePublished: '2015-12-29T18:12:33.359Z'
-dateModified: '2015-12-29T18:11:42.413Z'
+datePublished: '2015-12-29T18:14:16.487Z'
+dateModified: '2015-12-29T18:14:01.655Z'
 author: []
 related: []
 app_links: []
@@ -41,6 +41,6 @@ _type: MediaObject
 
 Young Vocalists: Ivan Wong, Coco Lam, Andrea Mak, Anna Law, Chloe Chan, Audrey Chan, Cheery Chen, Cheryl Tsui, Chloe Chan, Justin Ho, Michelle Chan, Sofia Lee, Timothy Kon
 
-<article style=""><h1>RTHK Player</h1><p>RTHK Player</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1897fe159141a6aa4721862766b7429a03847a2.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1897fe159141a6aa4721862766b7429a03847a2.jpg" /></article>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba9f320b-c25d-405e-aa2f-71388518c7e7.jpg)
