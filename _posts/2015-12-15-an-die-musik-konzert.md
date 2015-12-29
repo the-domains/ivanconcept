@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T18:55:21.348Z'
-dateModified: '2015-12-29T18:55:17.462Z'
+datePublished: '2015-12-29T18:57:46.213Z'
+dateModified: '2015-12-29T18:57:42.908Z'
 title: An Die Musik Konzert
 author: []
 sourcePath: _posts/2015-12-15-an-die-musik-konzert.md
@@ -32,6 +32,5 @@ Hong Kong Baptist University Chapel
 224 Waterloo Road, Kowloon Tong
 
 [http://www.chap.hkbu.edu.hk/hkbu058.php][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f7383ff7fb811741463cf025bd52dbf31e0270.jpg)
 
 [0]: http://www.chap.hkbu.edu.hk/hkbu058.php
