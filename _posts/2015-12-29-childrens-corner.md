@@ -2,17 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://programme.rthk.hk/channel/radio/player_popup.php?pid=631&eid=&d=2015-12-20&player=mp3&type=archive&channel=radio4'
-inLanguage: null
+isBasedOnUrl: 'http://programme.rthk.hk/channel/radio/programme.php?name=radio4%2Fchildren&d=2015-12-20&p=631&e&m=episode'
+inLanguage: en
 starred: false
-keywords: []
-description: ''
-datePublished: '2015-12-29T17:58:52.338Z'
-dateModified: '2015-12-29T17:58:45.085Z'
+keywords:
+  - rthk
+  - terrestrial
+  - faq
+  - conformance
+  - sharing
+  - tender
+  - privacy
+  - recruitment
+  - digital
+  - web
+description: 每個周日下午，羅姨姨約定你一齊聽音樂，一齊聽故事。
+datePublished: '2015-12-29T18:03:21.417Z'
+dateModified: '2015-12-29T18:03:14.908Z'
 author: []
 related: []
 app_links: []
-title: "Children's Corner親親童樂日"
+title: "Children's Corner"
 authors: []
 publisher:
   name: Rthk
@@ -25,13 +35,14 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Children's Corner  
-親親童樂日
+# Children's Corner
+
+# 親親童樂日
 
 # 20 December 2015
 
-Young Vocalists: Ivan Wong, Coco Lam, Andrea Mak, Anna Law, Chloe Chan, Audrey Chan, Cheery Chen, Cheryl Tsui, Chloe Chan, Justin Ho, Michelle Chan, Sofia Lee, Timothy Kong
+Young Vocalists: Ivan Wong, Coco Lam, Andrea Mak, Anna Law, Chloe Chan, Audrey Chan, Cheery Chen, Cheryl Tsui, Chloe Chan, Justin Ho, Michelle Chan, Sofia Lee, Timothy Kon
 
-<article style=""><h1>RTHK Player</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cd36d080f6d9a9e3c832767ff0df82b4ba564be.jpg" /></article>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac49162-e7a5-44d3-bbe8-5abe0d47c505.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba9f320b-c25d-405e-aa2f-71388518c7e7.jpg)
