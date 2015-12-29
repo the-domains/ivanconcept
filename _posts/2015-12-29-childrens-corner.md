@@ -17,8 +17,8 @@ keywords:
   - digital
   - web
 description: ''
-datePublished: '2015-12-29T18:27:22.723Z'
-dateModified: '2015-12-29T18:27:15.548Z'
+datePublished: '2015-12-29T18:28:44.143Z'
+dateModified: '2015-12-29T18:28:41.237Z'
 author: []
 related: []
 app_links: []
@@ -41,4 +41,4 @@ _type: MediaObject
 
 Young Vocalists: Ivan Wong, Coco Lam, Andrea Mak, Anna Law, Chloe Chan, Audrey Chan, Cheery Chen, Cheryl Tsui, Chloe Chan, Justin Ho, Michelle Chan, Sofia Lee, Timothy Kon
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35eca9ee0c61e2d9ec92caede76ba37b172da9fa.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bfb9ee63f6b5ca98c1958a08a1cc51b607b07da.jpg" /></article>
