@@ -17,8 +17,8 @@ keywords:
   - digital
   - web
 description: ''
-datePublished: '2015-12-29T18:48:03.461Z'
-dateModified: '2015-12-29T18:48:00.390Z'
+datePublished: '2015-12-29T18:52:09.840Z'
+dateModified: '2015-12-29T18:52:06.749Z'
 author: []
 related: []
 app_links: []
@@ -36,8 +36,8 @@ _type: MediaObject
 
 ---
 # Children's Corner 親親童樂日
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6382d773364d4769e114e1d71243f013466ce653.jpg)
 
 20 Dec 2015
 
 Young Vocalists: Ivan Wong, Coco Lam, Andrea Mak, Anna Law, Chloe Chan, Audrey Chan, Cheery Chen, Cheryl Tsui, Chloe Chan, Justin Ho, Michelle Chan, Sofia Lee, Timothy Kon
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6382d773364d4769e114e1d71243f013466ce653.jpg)
