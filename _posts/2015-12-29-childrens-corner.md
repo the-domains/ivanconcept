@@ -17,8 +17,8 @@ keywords:
   - digital
   - web
 description: ''
-datePublished: '2015-12-30T06:06:31.636Z'
-dateModified: '2015-12-29T18:54:30.919Z'
+datePublished: '2015-12-30T13:07:19.155Z'
+dateModified: '2015-12-30T13:07:14.204Z'
 author: []
 related: []
 app_links: []
@@ -36,7 +36,7 @@ _type: MediaObject
 
 ---
 # Children's Corner 親親童樂日
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6382d773364d4769e114e1d71243f013466ce653.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aafbc8af-75a6-4624-afeb-20ad7e9fb791.jpg)
 
 20 Dec 2015
 
