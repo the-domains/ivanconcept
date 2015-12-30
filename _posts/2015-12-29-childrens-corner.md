@@ -17,8 +17,8 @@ keywords:
   - digital
   - web
 description: ''
-datePublished: '2015-12-30T18:41:59.492Z'
-dateModified: '2015-12-30T18:39:58.050Z'
+datePublished: '2015-12-30T18:44:19.892Z'
+dateModified: '2015-12-30T18:44:12.648Z'
 author: []
 related: []
 app_links: []
@@ -42,6 +42,6 @@ _type: MediaObject
 
 20 Dec 2015
 
-http://programme.rthk.hk/channel/radio/player\_popup.php?pid=631&eid=&d=2015-12-20&player=mp3&type=archive&channel=radio4
-
 Young Vocalists: Ivan Wong, Coco Lam, Andrea Mak, Anna Law, Chloe Chan, Audrey Chan, Cheery Chen, Cheryl Tsui, Chloe Chan, Justin Ho, Michelle Chan, Sofia Lee, Timothy Kon
+
+http://programme.rthk.hk/channel/radio/player\_popup.php?pid=631&eid=&d=2015-12-20&player=mp3&type=archive&channel=radio4
