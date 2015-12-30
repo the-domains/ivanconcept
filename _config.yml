@@ -1,6 +1,6 @@
 name: ivanconcept
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.74975
 typography_spectrum: 1
 collections:
   - index:
@@ -36,6 +36,6 @@ color:
     - '#ea94a2'
   brandStrength: 1
   lightness: 0
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
