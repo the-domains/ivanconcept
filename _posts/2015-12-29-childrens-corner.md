@@ -17,8 +17,8 @@ keywords:
   - digital
   - web
 description: ''
-datePublished: '2015-12-31T05:29:22.698Z'
-dateModified: '2015-12-31T04:06:10.261Z'
+datePublished: '2015-12-31T05:33:20.401Z'
+dateModified: '2015-12-31T05:33:16.721Z'
 author: []
 related: []
 app_links: []
@@ -41,7 +41,5 @@ _type: MediaObject
 親親童樂日
 
 20 Dec 2015
-
-http://programme.rthk.hk/channel/radio/player\_popup.php?pid=631&eid=&d=2015-12-20&player=mp3&type=archive&channel=radio4
 
 Young Vocalists: Ivan Wong, Coco Lam, Andrea Mak, Anna Law, Chloe Chan, Audrey Chan, Cheery Chen, Cheryl Tsui, Chloe Chan, Justin Ho, Michelle Chan, Sofia Lee, Timothy Kon
