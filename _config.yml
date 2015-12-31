@@ -1,7 +1,7 @@
 name: ivanconcept
 favicon: null
 layout_spectrum: 0.74886
-typography_spectrum: 0.78608
+typography_spectrum: 1
 collections:
   - index:
       path: /
