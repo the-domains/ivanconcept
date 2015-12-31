@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T08:13:37.304Z'
-dateModified: '2015-12-31T08:13:09.317Z'
-title: "Children's Corner親親童樂日"
+datePublished: '2015-12-31T09:37:36.873Z'
+dateModified: '2015-12-31T09:37:18.793Z'
+title: "Children's Corner\L親親童樂日"
 author: []
 authors: []
 publisher:
@@ -22,12 +22,13 @@ url: childrens-corner/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63810fc4-59e8-4c12-9ab2-d8c3dabec592.jpg)
+
 # Children's Corner  
-親親童樂日
+ 親親童樂日
 
 20 Dec 2015
 
 http://programme.rthk.hk/channel/radio/player\_popup.php?pid=631&eid=&d=2015-12-20&player=mp3&type=archive&channel=radio4
 
 Young Vocalists: Ivan Wong, Coco Lam, Andrea Mak, Anna Law, Chloe Chan, Audrey Chan, Cheery Chen, Cheryl Tsui, Chloe Chan, Justin Ho, Michelle Chan, Sofia Lee, Timothy Kon
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eebdb6e-ab85-464b-9ee9-0cf525333757.jpg)
