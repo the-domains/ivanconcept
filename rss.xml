@@ -4,8 +4,15 @@
         <description><![CDATA[Ivan Wong, Pianist]]></description>
         <link>http://ivanconcept.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 08:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 08:39:31 GMT</lastBuildDate>
         <atom:link href="http://ivanconcept.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5759934b-4299-4870-bd33-a70308d6d9a7.jpg" alt="" title="">]]></description>
+            <link>http://ivanconcept.com/4ad1f1a9-0ec3-46fb-b156-dc743e188340/index.html</link>
+            <guid isPermaLink="false">4ad1f1a9-0ec3-46fb-b156-dc743e188340</guid>
+            <pubDate>Mon, 01 Feb 2016 08:39:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Classical Music Mashup]]></title>
             <description><![CDATA[<article><h1>Classical Music Mashup</h1><p>Beautiful marriage of the best tunes!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61a4a4ff4574f383a1070a7f1588c839a74db32c.jpg"></article>]]></description>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[A different way to visualize rhythm - John Varney]]></title>
-            <description><![CDATA[<article><h1>A different way to visualize rhythm - John Varney</h1><p>In standard notation, rhythm is indicated on a musical bar line. But there are other ways to visualize rhythm that can be more intuitive. John Varney describes the 'wheel method' of tracing rhythm and uses it to take us on a musical journey around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84f2265ae253fdea33696ad1af1e168f7a6ed1e9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A different way to visualize rhythm - John Varney</h1><p>In standard notation, rhythm is indicated on a musical bar line. But there are other ways to visualize rhythm that can be more intuitive. John Varney describes the 'wheel method' of tracing rhythm and uses it to take us on a musical journey around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44b6506a9d19416aea66a8a839cde0f800239cb6.jpg"></article>]]></description>
             <link>http://ivanconcept.com/a-different-way-to-visualize-rhythm-john-varney/index.html</link>
             <guid isPermaLink="false">9ce1ce6a-8b4a-45d0-a81d-6e02cb667a22</guid>
             <pubDate>Mon, 01 Feb 2016 08:33:31 GMT</pubDate>
