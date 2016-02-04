@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: ivanconcept
 favicon: null
+name: ivanconcept
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 1
-layout_spectrum: 1
+layout_spectrum: 0
