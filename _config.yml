@@ -1,5 +1,8 @@
+name: ivanconcept
+favicon: null
+layout_spectrum: 0.4376054
+typography_spectrum: 1
 title: 'Ivan Wong, Pianist'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
   brandColors:
     - '#e54f1f'
     - '#d30c2c'
     - '#4a3d51'
     - '#b2dc7f'
     - '#ea94a2'
+  brandStrength: 0.5
   lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: ivanconcept
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0.4376054
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
