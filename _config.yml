@@ -1,6 +1,6 @@
 name: ivanconcept
 favicon: null
-layout_spectrum: 0.4376054
+layout_spectrum: 0.74978
 typography_spectrum: 1
 title: 'Ivan Wong, Pianist'
 collections:
@@ -34,8 +34,8 @@ color:
     - '#4a3d51'
     - '#b2dc7f'
     - '#ea94a2'
-  brandStrength: 0.5
-  lightness: 0.1875
-  saturation: 0.5
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
