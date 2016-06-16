@@ -16,12 +16,11 @@ keywords:
   - semester
   - shin
 description: ''
-datePublished: '2016-06-16T05:56:57.530Z'
-dateModified: '2016-06-12T05:06:18.034Z'
+datePublished: '2016-06-16T06:00:12.780Z'
+dateModified: '2016-06-16T05:59:26.774Z'
 author:
-  - name: HKUST Global Business
-    url: 'https://www.youtube.com/channel/UCwuSxm_TlgRGTGWrqmDhfyw'
-    avatar: {}
+  - name: ''
+    url: ''
 related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=4hibxGUBzTA&feature=applinks'
