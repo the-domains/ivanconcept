@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=4hibxGUBzTA&feature=youtu.be&t=10'
 inLanguage: en
-starred: false
 keywords:
   - gbus
   - hkust
@@ -16,9 +15,9 @@ keywords:
   - music
   - semester
   - shin
-description: 'GBUS is a truly constructive community in which like-minded, conscientious students motivate each other in pushing themselves to new limits. In this episode , 2 GBUS students share about what music philosophy. "Music gives me a way to express and contain my emotions... music is like a close friend."'
-datePublished: '2016-04-06T04:20:56.905Z'
-dateModified: '2016-04-06T04:20:55.861Z'
+description: ''
+datePublished: '2016-06-16T05:56:57.530Z'
+dateModified: '2016-06-12T05:06:18.034Z'
 author:
   - name: HKUST Global Business
     url: 'https://www.youtube.com/channel/UCwuSxm_TlgRGTGWrqmDhfyw'
@@ -61,19 +60,17 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: HKUST GBUS Monthly Video Series - April 2016
+title: ''
 sourcePath: _posts/2016-04-06-hkust-gbus-monthly-video-series-april-2016.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23ed43bf-cd55-4267-a6c0-ab08ced13910.jpg)
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4hibxGUBzTA%3Fstart%3D10%26feature%3Doembed%26start%3D10&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4hibxGUBzTA%26feature%3Dyoutu.be%26t%3D10&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4hibxGUBzTA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
