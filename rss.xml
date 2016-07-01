@@ -4,8 +4,15 @@
         <description><![CDATA[Ivan Wong]]></description>
         <link>http://ivanconcept.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 16:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 16:36:34 GMT</lastBuildDate>
         <atom:link href="http://ivanconcept.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steinway]]></title>
+            <description><![CDATA[<article><h1>Steinway</h1><p>A photographic journey through the world famous Steinway & Sons piano factory in Astoria, New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fe5e0015261ce57b0718a10107ca3f8479cafcd.jpg"></article>]]></description>
+            <link>http://www.chrispaynephoto.com/steinway/</link>
+            <guid isPermaLink="false">44243e04-8875-462a-b2b2-0cbcdaf6b0ea</guid>
+            <pubDate>Fri, 01 Jul 2016 16:36:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Aldous Huxley on the Transcendent Power of Music and Why It Sings to Our Souls]]></title>
             <description><![CDATA[<article><h1>Aldous Huxley on the Transcendent Power of Music and Why It Sings to Our Souls</h1><p>"Without music life would be a mistake," Nietzsche proclaimed in 1889. But although a great many beloved writers have extolled the power of music with varying degrees of Nietzsche's bombast, no one has captured its singular enchantment more beautifully than Aldous Huxley (July, 26 1894-November 22, 1963).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3fd48be3cc043e0f836a2ea3588c95a6dfe6546.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=7OYkWSW7u4k</link>
             <guid isPermaLink="false">a9587b8a-9e83-425c-856a-06aa7529c8fc</guid>
             <pubDate>Sat, 05 Mar 2016 16:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Steinway]]></title>
-            <description><![CDATA[<article><h1>Steinway</h1><p>A photographic journey through the world famous Steinway & Sons piano factory in Astoria, New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fe5e0015261ce57b0718a10107ca3f8479cafcd.jpg"></article>]]></description>
-            <link>http://www.chrispaynephoto.com/steinway/</link>
-            <guid isPermaLink="false">44243e04-8875-462a-b2b2-0cbcdaf6b0ea</guid>
-            <pubDate>Sat, 20 Feb 2016 16:15:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A different way to visualize rhythm - John Varney]]></title>
