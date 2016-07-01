@@ -1,8 +1,32 @@
-name: ivanconcept
-favicon: null
-layout_spectrum: 0.73612
 typography_spectrum: 1
-title: Ivan Wong
+color:
+  brandColors:
+    - '#e54f1f'
+    - '#d30c2c'
+    - '#4a3d51'
+    - '#b2dc7f'
+    - '#ea94a2'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.73612
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf646612-d5eb-4775-b4f6-02fbf130f8fa.png
+name: ivanconcept
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +39,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#e54f1f'
-    - '#d30c2c'
-    - '#4a3d51'
-    - '#b2dc7f'
-    - '#ea94a2'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 1
+title: Ivan Wong
 purpose: []
