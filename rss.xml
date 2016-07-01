@@ -4,8 +4,15 @@
         <description><![CDATA[Ivan Wong]]></description>
         <link>http://ivanconcept.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 16:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 16:38:29 GMT</lastBuildDate>
         <atom:link href="http://ivanconcept.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An Die Musik Konzert]]></title>
+            <description><![CDATA[<article><h1>An Die Musik Konzert</h1><h2>13 Dec 2015, 4:00pm</h2><p>http://www.chap.hkbu.edu.hk/hkbu058.php</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/646032e4b0f7d88643ce68d4c3854518e007cc17.jpg"></article>]]></description>
+            <link>http://ivanconcept.com/an-die-musik-konzert/index.html</link>
+            <guid isPermaLink="false">683c25a9-2b26-41e2-84e4-342e8887710e</guid>
+            <pubDate>Fri, 01 Jul 2016 16:37:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Children's Corner]]></title>
             <description><![CDATA[<article><h1>Children's Corner</h1><h2>20 Dec 2015</h2><p>http://programme.rthk.hk/channel/radio/player_popup.php?pid=631&eid=&d=2015-12-20&player=mp3&type=archive&channel=radio4</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fcaf432d2a8ddffd1706458a01f1fef69fa4856.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>http://swizec.com/blog/why-programmers-work-at-night/swizec/3198</link>
             <guid isPermaLink="false">275df90d-0b1d-463f-b23c-593617f72d05</guid>
             <pubDate>Tue, 29 Dec 2015 19:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Die Musik Konzert]]></title>
-            <description><![CDATA[<article><h1>An Die Musik Konzert</h1><p>13 Dec 2015, 4:00pm</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/646032e4b0f7d88643ce68d4c3854518e007cc17.jpg"></article>]]></description>
-            <link>http://ivanconcept.com/an-die-musik-konzert/index.html</link>
-            <guid isPermaLink="false">683c25a9-2b26-41e2-84e4-342e8887710e</guid>
-            <pubDate>Tue, 29 Dec 2015 18:57:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
