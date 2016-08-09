@@ -40,4 +40,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Ivan Wong
+description: Inspiring greater music.
 purpose: []
